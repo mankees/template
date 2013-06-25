@@ -1,0 +1,9 @@
+{
+  "name": "mankees-template",
+  "private": true,
+  "description": "Plugin template",
+  "author": "Juho Vepsalainen <bebraw@gmail.com>",
+  "version": "0.1.0",
+  "dependencies": {
+  }
+}

@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
+module.exports = execute;
 
-exports.execute = function(a, b) {
+function execute(a, b) {
     console.log('Passed parameters', a, b);
-};
-exports.help = 'Just some optional help';
+}
+execute.help = 'Just some optional help';
